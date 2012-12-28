@@ -10,6 +10,8 @@ popup each day of your balance and how it has changed.
 This is based on my [amex](https://github.com/timrogers/amex) gem which
 uses a non-public American Express API to view your account.
 
+![Screenshot](http://i.imgur.com/3JLLl.png)
+
 ### Requirements
 
 * An American Express account (it might have to be a UK one, I'm not sure)
